@@ -1,0 +1,8 @@
+{
+    "name": "root/libs",
+    "require": {
+        "twbs/bootstrap": "^3.3",
+        "components/jquery": "^3.2",
+        "fortawesome/font-awesome": "^4.7"
+    }
+}
